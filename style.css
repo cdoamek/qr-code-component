@@ -6,3 +6,11 @@ body {
     font-size: 15px;
 }
 
+.bold {
+    font-weight: 700;
+}
+
+.standard {
+    font-weight: 400;
+}
+
