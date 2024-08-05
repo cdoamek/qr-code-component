@@ -4,10 +4,13 @@
 body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
 }
 
 .bold {
     font-weight: 700;
+    
 }
 
 .standard {
@@ -15,14 +18,22 @@ body {
 }
 
 img {
-    width: 330px;
+    display: block;
+    margin: auto;
+    width: 280px;
     height: auto;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 div {
     box-sizing: border-box;
-    width: 340px;
-    height: auto;
-    border-radius: 20px;
+    width: 320px;
+    height: 430px;
+    border-radius: 15px;
+    margin:  auto;
+    padding-top: 10px;
+}
+
+.container {
+    background-color: white;
 }
