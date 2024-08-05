@@ -14,3 +14,15 @@ body {
     font-weight: 400;
 }
 
+img {
+    width: 330px;
+    height: auto;
+    border-radius: 20px;
+}
+
+div {
+    box-sizing: border-box;
+    width: 340px;
+    height: auto;
+    border-radius: 20px;
+}
