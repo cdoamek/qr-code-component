@@ -10,6 +10,7 @@ body {
 
 .bold {
     font-weight: 700;
+    padding: 2%;
     
 }
 
@@ -20,14 +21,14 @@ body {
 img {
     display: block;
     margin: auto;
-    width: 280px;
+    width: 250px;
     height: auto;
     border-radius: 15px;
 }
 
 div {
     box-sizing: border-box;
-    width: 320px;
+    width: 280px;
     height: 430px;
     border-radius: 15px;
     margin:  auto;
@@ -36,4 +37,5 @@ div {
 
 .container {
     background-color: white;
+    margin-top: 15%;
 }
